@@ -1,12 +1,12 @@
-# ✅ Butter AI — Final Product Requirements Document (PRD)
+# ✅ Butter AI -  Final Product Requirements Document (PRD)
 
-## Phase 3 — Final Version
+## Phase 3 - Final Version
 
 ---
 
 ### 1. Product Overview
 
-**Butter AI** is a customer health engine designed for early-stage SaaS startups. Founders often lose customers not because their product is bad, but because they fail to see declining engagement in time. Customer signals live in too many places — CRM notes, support messages, product analytics, billing, and ad-hoc conversations — making it easy to miss warning signs until it is too late.
+**Butter AI** is a customer health engine designed for early-stage SaaS startups. Founders often lose customers not because their product is bad, but because they fail to see declining engagement in time. Customer signals live in too many places - CRM notes, support messages, product analytics, billing, and ad-hoc conversations - making it easy to miss warning signs until it is too late.
 
 Butter AI aggregates these scattered inputs and uses AI to interpret signals, highlight risks, and recommend actions a founder can take to prevent churn. The current prototype is a polished marketing website that communicates the Butter vision and includes a working AI-powered Q&A chatbot that answers questions about churn, customer signals, and the value of unified customer health.
 
