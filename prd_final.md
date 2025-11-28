@@ -2,6 +2,12 @@
 
 ## Phase 3 — Final Version
 
+### Important Links
+*   **Live Website:** [https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app](https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app)
+*   **Demo Video:** [Link to Demo Video]
+
+---
+
 ### 1. Product Overview
 
 **Butter AI** is a customer health engine designed for early-stage SaaS startups. Founders often lose customers not because their product is bad, but because they fail to see declining engagement in time. Customer signals live in too many places — CRM notes, support messages, product analytics, billing, and ad-hoc conversations — making it easy to miss warning signs until it is too late.

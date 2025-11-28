@@ -6,24 +6,9 @@ This repository contains the **Phase 3 Marketing Website Prototype**, which demo
 
 ## How to View
 
-To run and view this project on your local machine:
+You can view the live deployed prototype here:
 
-1.  **Install Dependencies:**
-    ```bash
-    npm install
-    ```
-
-2.  **Configure API Key:**
-    Create a `.env` file in the root directory and add your Google Gemini API key:
-    ```env
-    VITE_API_KEY=your_google_api_key_here
-    ```
-
-3.  **Start the Server:**
-    ```bash
-    npm run dev
-    ```
-    Open your browser to the URL provided in the terminal (usually `http://localhost:5173`).
+**[Launch Butter AI Website](https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app)**
 
 ## Demo Video
 
