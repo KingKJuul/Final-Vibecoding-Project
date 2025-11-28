@@ -171,7 +171,6 @@ Response rendered in chatbot component
 - [ ] Create mock "churn score" visualization
 - [ ] Add onboarding (CSV or API mock ingestion)
 - [ ] Implement persona-specific explanations (founder, CSM, PM)
-
 #### Long-Term Roadmap
 - [ ] Build full insight engine analyzing customer behavior
 - [ ] Weekly founder summary reports
@@ -184,4 +183,6 @@ Response rendered in chatbot component
 
 ### 8. Links
 *   **Live Website:** [https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app](https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app)
-*   **Demo Video:** [https://github.com/KingKJuul/Final-Vibecoding-Project](https://github.com/KingKJuul/Final-Vibecoding-Project/)
+*   **Github Repo:** [https://github.com/KingKJuul/Final-Vibecoding-Project](https://github.com/KingKJuul/Final-Vibecoding-Project/)
+*   **Demo Video:** [[https://github.com/KingKJuul/Final-Vibecoding-Project](https://github.com/KingKJuul/Final-Vibecoding-Project/](https://notredame.zoom.us/rec/share/QSY7h2s8ABs1A2zmSZUM702cwGgHIEvF17umKAlEmNX1HW-lg-u78moAkmUhswv0.96-4guWgEo9ybXgU?startTime=1764358058000
+))
