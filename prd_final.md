@@ -177,8 +177,3 @@ Response rendered in chatbot component
 - [ ] Integration with major CRMs and billing tools
 - [ ] Real churn prediction model
 - [ ] Full analytics dashboard with cohort analysis
-
----
-### 8. Links
-- Live prototype: https://butter-ai-marketing-website-38773740458.us-west1.run.appLinks
-- GitHub repo: https://github.com/KingKJuul/Final-Vibecoding-Project/

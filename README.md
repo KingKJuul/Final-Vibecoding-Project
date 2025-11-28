@@ -1,20 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Butter AI - Marketing Website Prototype
 
-# Run and deploy your AI Studio app
+**Butter AI** is a predictive customer health engine designed for early-stage SaaS founders. It aggregates customer signals from scattered tools (CRM, support, usage) to predict churn before it happens.
 
-This contains everything you need to run your app locally.
+This repository contains the **Phase 3 Marketing Website Prototype**, which demonstrates the product vision, core value proposition, and user interface.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1K4BXcG0gA3n0vj3u3cTFudjslsvyq-di
+## How to View
 
-## Run Locally
+To run and view this project on your local machine:
 
-**Prerequisites:**  Node.js
+1.  **Install Dependencies:**
+    ```bash
+    npm install
+    ```
 
+2.  **Configure API Key:**
+    Create a `.env` file in the root directory and add your Google Gemini API key:
+    ```env
+    VITE_API_KEY=your_google_api_key_here
+    ```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+3.  **Start the Server:**
+    ```bash
+    npm run dev
+    ```
+    Open your browser to the URL provided in the terminal (usually `http://localhost:5173`).
+
+## Demo Video
+
+[Link to Demo Video]
+
+## Technologies Used
+
+*   **Frontend:** React 19, TypeScript
+*   **Build Tool:** Vite
+*   **Styling:** Tailwind CSS (via CDN for portability)
+*   **AI Integration:** Google GenAI SDK (`@google/genai`)
+*   **Model:** Gemini 2.5 Flash
+
+## How This Project Uses AI
+
+This prototype features a live, interactive **AI Assistant** embedded in the bottom-right corner of the website.
+
+*   **What it does:** The assistant acts as a knowledgeable support agent for Butter AI. It answers questions about how the product works, explains concepts like "customer churn" and "health scoring," and provides examples of how Butter AI helps founders save time.
+*   **How it works:** We use the **Google GenAI SDK** to send user messages to the **Gemini 2.5 Flash** model. The model is given a specific "System Instruction" that defines its persona: helpful, concise, and focused on SaaS metrics.
+*   **Why we used it:** This demonstrates the core promise of Butter AI—translating complex data into simple, conversational insights—without needing a full backend infrastructure for this marketing phase.
+
+## License
+
+This project is a prototype created for educational and demonstration purposes.
