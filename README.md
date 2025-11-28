@@ -12,7 +12,7 @@ You can view the live deployed prototype here:
 
 ## Demo Video
 
-**[Link to Demo Video](https://notredame.zoom.us/rec/share/QSY7h2s8ABs1A2zmSZUM702cwGgHIEvF17umKAlEmNX1HW-lg-u78moAkmUhswv0.96-4guWgEo9ybXgU?startTime=1764358058000)
+[Link to Demo Video](https://notredame.zoom.us/rec/share/QSY7h2s8ABs1A2zmSZUM702cwGgHIEvF17umKAlEmNX1HW-lg-u78moAkmUhswv0.96-4guWgEo9ybXgU?startTime=1764358058000)
 
 ## Technologies Used
 
