@@ -185,4 +185,3 @@ Response rendered in chatbot component
 *   **Live Website:** [https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app](https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app)
 *   **Github Repo:** [https://github.com/KingKJuul/Final-Vibecoding-Project](https://github.com/KingKJuul/Final-Vibecoding-Project/)
 *   **Demo Video:** [https://notredame.zoom.us/rec/share/QSY7h2s8ABs1A2zmSZUM702cwGgHIEvF17umKAlEmNX1HW-lg-u78moAkmUhswv0.96-4guWgEo9ybXgU?startTime=1764358058000](https://notredame.zoom.us/rec/share/QSY7h2s8ABs1A2zmSZUM702cwGgHIEvF17umKAlEmNX1HW-lg-u78moAkmUhswv0.96-4guWgEo9ybXgU?startTime=1764358058000)
-))
