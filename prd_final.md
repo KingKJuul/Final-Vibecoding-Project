@@ -2,10 +2,6 @@
 
 ## Phase 3 — Final Version
 
-### Important Links
-*   **Live Website:** [https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app](https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app)
-*   **Demo Video:** [Link to Demo Video]
-
 ---
 
 ### 1. Product Overview
@@ -183,3 +179,9 @@ Response rendered in chatbot component
 - [ ] Integration with major CRMs and billing tools
 - [ ] Real churn prediction model
 - [ ] Full analytics dashboard with cohort analysis
+
+---
+
+### 8. Links
+*   **Live Website:** [https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app](https://final-project-butter-ai-marketing-website-38773740458.us-west1.run.app)
+*   **Demo Video:** [https://github.com/KingKJuul/Final-Vibecoding-Project](https://github.com/KingKJuul/Final-Vibecoding-Project/)
